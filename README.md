@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Laurey Wanyama 👋</h1>
+<h1 align="center">Hi, I'm Juma Wanyama 👋</h1>
 <h3 align="center">Farmer & Full Stack Software Engineer from Nairobi, Kenya 🌱💻</h3>
 
 ---
